@@ -1,2 +1,3 @@
-# R u ok
- ST4248 Term Paper
+# R u ok?: Predicting Mental Health status amongst respondents
+
+In this term paper, various machine learning algorithms were used to accurately predict if an individual is likely to suffer from mental health problems based on socio-economic indicators and a mental health questionnaire. Additionally, factors that were significant in affecting mental health were selected and ranked. This will aid in the development of an early warning system, where individuals can utilise it to monitor their mental health and obtain timely treatment. This paper will cover the pre-processing of data, exploratory data analysis, models, feature importance, limitations, and conclusion.
